@@ -1,1 +1,0 @@
-# bigyanghimire.github.io

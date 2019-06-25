@@ -5,9 +5,7 @@
 layout: home
 ---
 
-{%- include image.html
-  img="https://raw.githubusercontent.com/bigyanghimire/bigyanghimire.github.io/master/assets/img/bigyan.PNG"
-  title="Me at 2018" -%}
+
 
 <h4>
   I'm a software engineer living in Nepal. All the opinions on this website are my own.

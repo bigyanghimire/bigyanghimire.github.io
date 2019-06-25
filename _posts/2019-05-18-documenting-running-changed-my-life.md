@@ -5,7 +5,7 @@ date:       2018-12-15 18:15:00 -0500
 categories: essays
 ---
 
-# Journey on my new venture
+
 
 I am going to be documenting my journey. Maybe I should have done it for my first startup as well before it failed. This time though I am going to be writing 4 times a month. 
 

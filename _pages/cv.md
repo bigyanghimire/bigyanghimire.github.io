@@ -11,36 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering, Clemson University, 2023 - 2029 (Expected)
+* B.S. in Computer Engineering, Kathmandu University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2024 - Ongoing: Graduate Research Assistant 
+  * HPC, Efficient AI, Data Compression, Soil Software
+  
+* March 2023 - December 2023: Software Developer at Fetchly Labs, Austin, TX, US 
+  * Frontend (React), Backend (Ruby on Rails)
+  
+* March 2022 - March 2023: Software Developer at So'Use, Leipzig, Saxony, Germany 
+  * Frontend (Angular), Backend (Django/Python)
+  
+* March 2021 - March 2022: Software Developer, Napses Technologies, Bengaluru, India
+  * Frontend (Angular, React), Backend (Node.js, Docker, AWS)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* C++
+* Python
+* CUDA
+* JavaScript/React/Node.js
+* TypeScript/Angular
+* Python
+* Ruby/RoR
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
